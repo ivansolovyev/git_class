@@ -1,8 +1,10 @@
 Mars is a red planet.
 It is cold and dry, but everything is my favorite color.
 
+
 Ivan is also changing this line
 
 And I'll add a bit more
 
+Updated line 4.
 Test.
